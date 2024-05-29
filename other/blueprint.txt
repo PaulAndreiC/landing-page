@@ -1,0 +1,13 @@
+full page (flex column) -> body
+    - header (flex row):
+        -logo;
+        -menu (flex row): 3 items;
+    - hero banner (flex row):
+        - title (flex column): 3 items;
+        - photo: 1 item;
+    - random information(flex row):
+        - 5 items;
+    - qoute;
+    - contact;
+    - footer;
+    
