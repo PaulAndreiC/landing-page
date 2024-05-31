@@ -10,3 +10,10 @@ body {
     background-color: #ffffff;
 }
 
+header,
+footer,
+.hero-banner {
+    background-color: #1F2937;
+}
+
+
