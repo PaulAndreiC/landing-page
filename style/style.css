@@ -23,6 +23,11 @@ header {
     color: #F9FAF8;
 }
 
+.menu {
+    font-size: 1.125em;    
+    color: #E5E7EB;
+}
+
 .hero-banner {
     background-color: #1F2937;
     display: flex;
