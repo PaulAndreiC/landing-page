@@ -29,6 +29,7 @@ header {
 .logo {
     flex: 10;
     font-size: 1.5em;
+    font-weight: 900;
     color: #F9FAF8;
 }
 
@@ -49,6 +50,8 @@ header {
 .hero-banner {
     display: flex;
     flex-direction: row;
+    width: 960px;
+    margin: 0 auto;
     background-color: #1F2937;
 }
 
