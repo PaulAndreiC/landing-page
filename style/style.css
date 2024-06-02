@@ -34,7 +34,7 @@ header {
 .menu {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     font-size: 1.125em;    
     color: #E5E7EB;
     list-style-type: none;
