@@ -27,11 +27,13 @@ header {
 }
 
 .logo {
+    flex: 10;
     font-size: 1.5em;
     color: #F9FAF8;
 }
 
 .menu {
+    flex: 8;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
