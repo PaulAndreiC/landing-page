@@ -61,6 +61,11 @@ header {
     color: #F9FAF8;
 }
 
+.hero_banner_description {
+    font-size: 1.125em;
+    color: #F9FAF8;
+}
+
 .information_container {
     background-color: #ffffff;
 }
