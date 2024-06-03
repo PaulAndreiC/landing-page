@@ -80,6 +80,8 @@ header {
 
 .image_placeholder {
     flex: 1;
+    align-self: center;
+    text-align: center;
 }
 
 .information_container {
