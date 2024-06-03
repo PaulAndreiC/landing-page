@@ -78,6 +78,10 @@ header {
     color: #F9FAF8;
 }
 
+.image_placeholder {
+    flex: 1;
+}
+
 .information_container {
     background-color: #ffffff;
 }
