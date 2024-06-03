@@ -55,6 +55,10 @@ header {
     background-color: #1F2937;
 }
 
+.hero_banner_text {
+    flex: 1;
+}
+
 .hero_banner_title {
     font-size: 3em;
     font-weight: 900;
@@ -64,6 +68,10 @@ header {
 .hero_banner_description {
     font-size: 1.125em;
     color: #F9FAF8;
+}
+
+.hero_banner_image {
+    flex: 1;
 }
 
 .information_container {
