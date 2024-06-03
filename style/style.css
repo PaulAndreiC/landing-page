@@ -73,6 +73,8 @@ header {
 .hero_banner_image {
     flex: 1;
     background-color: #9D9FA1;
+    font-size: 1.125em;
+    color: #F9FAF8;
 }
 
 .information_container {
