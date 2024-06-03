@@ -57,6 +57,7 @@ header {
 
 .hero_banner_text {
     flex: 1;
+    margin-right: 2em;;
 }
 
 .hero_banner_title {
