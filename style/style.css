@@ -51,7 +51,7 @@ header {
     display: flex;
     flex-direction: row;
     width: 960px;
-    margin: 6em auto 0;
+    margin: 6em auto 6em;
     background-color: #1F2937;
 }
 
