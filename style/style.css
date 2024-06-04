@@ -93,6 +93,7 @@ header {
 .information_section {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     width: 960px;
     margin: 0 auto;
 }
