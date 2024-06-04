@@ -90,6 +90,11 @@ header {
     background-color: #ffffff;
 }
 
+.information_section {
+    width: 960px;
+    margin: 0 auto;
+}
+
 .quote_container {
     background-color: #E5E7EB;
 }
