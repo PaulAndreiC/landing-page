@@ -98,6 +98,10 @@ header {
     margin: 0 auto;
 }
 
+.information_title {
+    width: 100%;
+}
+
 .quote_container {
     background-color: #E5E7EB;
 }
