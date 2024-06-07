@@ -118,6 +118,7 @@ header {
     width: 8em;
     height: 8em;
     border: 2px solid #3882F6;
+    border-radius: 0.7em;
 }
 
 .illustrations_text {
