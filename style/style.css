@@ -117,7 +117,7 @@ header {
     width: 840px;
     height: auto;
     margin: 0 auto;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .illustration_image {
