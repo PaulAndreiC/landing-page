@@ -116,6 +116,10 @@ header {
     border: 2px solid #3882F6;
 }
 
+.illustrations_text {
+    display: flex;
+}
+
 .illustration_text {
     flex: 1;
 }
