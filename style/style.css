@@ -114,7 +114,7 @@ header {
 
 .illustrations {
     display: flex;
-    width: 960px;
+    width: 840px;
     height: auto;
     margin: 0 auto;
     justify-content: space-around;
@@ -129,7 +129,7 @@ header {
 
 .illustrations_text {
     display: flex;
-    width: 960px;
+    width: 840px;
     height: auto;
     margin: 1rem auto 0;
     justify-content: space-around;
