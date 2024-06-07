@@ -109,7 +109,7 @@ header {
 
 .illustrations {
     display: flex;
-    width: 720px;
+    width: 960px;
     height: auto;
     margin: 0 auto;
     justify-content: space-around;
@@ -124,7 +124,7 @@ header {
 
 .illustrations_text {
     display: flex;
-    width: 720px;
+    width: 960px;
     height: auto;
     margin: 0 auto;
     justify-content: space-around;
@@ -133,6 +133,7 @@ header {
 .illustration_text {
     width: 8em;
     height: auto;
+    text-align: center;
 }
 
 .quote_container {
