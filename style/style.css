@@ -127,7 +127,7 @@ header {
     display: flex;
     width: 960px;
     height: auto;
-    margin: 1em auto 0;
+    margin: 1em auto 8em;
     justify-content: space-around;
 }
 
