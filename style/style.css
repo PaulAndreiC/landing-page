@@ -169,9 +169,13 @@ header {
 }
 
 .action_section {
+    display: flex;
+    flex-direction: row;
     width: 960px;
     height: auto;
     margin: 6rem auto;
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
 
 .footer_container {
