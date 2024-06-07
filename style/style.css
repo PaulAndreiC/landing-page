@@ -153,6 +153,7 @@ header {
 }
 
 .quote_text {
+    font-family: "PT Sans Narrow", Arial, sans-serif;
     font-size: 2.25rem;
     font-weight: 100;
 }
