@@ -109,6 +109,8 @@ header {
 
 .illustrations {
     display: flex;
+    width: 100%;
+    height: auto;
 }
 
 .illustration_image {
