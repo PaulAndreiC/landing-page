@@ -109,8 +109,9 @@ header {
 
 .illustrations {
     display: flex;
-    width: 100%;
+    width: 720px;
     height: auto;
+    margin: 0 auto;
     justify-content: space-around;
 }
 
