@@ -132,7 +132,7 @@ header {
     width: 840px;
     height: auto;
     margin: 1rem auto 0;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .illustration_text {
