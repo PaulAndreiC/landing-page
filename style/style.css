@@ -131,7 +131,8 @@ header {
 }
 
 .illustration_text {
-    
+    width: 8em;
+    height: auto;
 }
 
 .quote_container {
