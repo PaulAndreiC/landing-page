@@ -152,6 +152,14 @@ header {
     margin: 8rem auto;
 }
 
+.quote_text {
+    font-size: 2.25rem;
+}
+
+.quote_author {
+    font-size: 1.5rem;
+}
+
 .action_container {
     background-color: #ffffff;
 }
