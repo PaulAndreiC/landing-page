@@ -25,7 +25,7 @@ header {
     display: flex;
     flex-direction: row;
     width: 960px;
-    margin: 2em auto 0;
+    margin: 2rem auto 0;
     justify-content: space-between;
     align-items: baseline;
     background-color: #1F2937;
@@ -33,7 +33,7 @@ header {
 
 .logo {
     flex: 10;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     font-weight: 900;
     color: #F9FAF8;
 }
@@ -43,7 +43,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-size: 1.125em;    
+    font-size: 1.125rem;    
     color: #E5E7EB;
     list-style-type: none;
 }
@@ -56,24 +56,24 @@ header {
     display: flex;
     flex-direction: row;
     width: 960px;
-    margin: 6em auto 6em;
+    margin: 6rem auto 6rem;
     background-color: #1F2937;
 }
 
 .hero_banner_text {
     flex: 1;
-    margin-right: 2em;;
+    margin-right: 2rem;;
 }
 
 .hero_banner_title {
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 900;
     color: #F9FAF8;
 }
 
 .hero_banner_description {
-    margin: 0.5em 0 0;
-    font-size: 1.125em;
+    margin: 0.5rem 0 0;
+    font-size: 1.125rem;
     color: #F9FAF8;
 }
 
@@ -81,7 +81,7 @@ header {
     flex: 1;
     display: flex;
     background-color: #9D9FA1;
-    font-size: 1.125em;
+    font-size: 1.125rem;
     color: #F9FAF8;
 }
 
@@ -105,8 +105,8 @@ header {
 
 .information_title {
     width: 100%;
-    margin: 2.25em 0;
-    font-size: 2.25em;
+    margin: 2.25rem 0;
+    font-size: 2.25rem;
     font-weight: 900;
     color: #1F2937;
     text-align: center;
@@ -121,22 +121,22 @@ header {
 }
 
 .illustration_image {
-    width: 10em;
-    height: 10em;
+    width: 10rem;
+    height: 10rem;
     border: 3px solid #3882F6;
-    border-radius: 0.7em;
+    border-radius: 0.7rem;
 }
 
 .illustrations_text {
     display: flex;
     width: 960px;
     height: auto;
-    margin: 1em auto 8em;
+    margin: 1rem auto 8rem;
     justify-content: space-around;
 }
 
 .illustration_text {
-    width: 10em;
+    width: 10rem;
     height: auto;
     padding: 0 5px;
     text-align: center;
@@ -149,7 +149,7 @@ header {
 .quote_section {
     width: 960px;
     height: auto;
-    margin: 8em auto;
+    margin: 8rem auto;
 }
 
 .action_container {
@@ -167,12 +167,12 @@ footer {
 }
 
 .sign_up {
-    margin: 1.5em 0 0;
-    padding: 0.5em 1.75em;
+    margin: 1.5rem 0 0;
+    padding: 0.5rem 1.75rem;
     background-color: #3882F6;
     border: 2px solid #3882F6;
-    border-radius: 0.5em;
-    font-size: 1.125em;
+    border-radius: 0.5rem;
+    font-size: 1.125rem;
     font-weight: 900;
     color: #F9FAF8;
 }
