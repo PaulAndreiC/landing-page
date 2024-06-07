@@ -124,6 +124,9 @@ header {
 
 .illustrations_text {
     display: flex;
+    width: 720px;
+    height: auto;
+    margin: 0 auto;
     justify-content: space-around;
 }
 
