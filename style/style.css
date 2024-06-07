@@ -168,6 +168,12 @@ header {
     background-color: #ffffff;
 }
 
+.action_section {
+    width: 960px;
+    height: auto;
+    margin: 6rem auto;
+}
+
 .footer_container {
     background-color: #1F2937;
 }
