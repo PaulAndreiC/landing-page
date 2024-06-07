@@ -161,6 +161,7 @@ header {
 .quote_author {
     font-size: 1.5rem;
     font-weight: 900;
+    text-align: right;
 }
 
 .action_container {
