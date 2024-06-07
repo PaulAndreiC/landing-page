@@ -109,6 +109,7 @@ header {
 
 .illustration_image {
     flex: 1;
+    border: 2px solid #3882F6;
 }
 
 .illustration_text {
