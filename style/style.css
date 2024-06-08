@@ -184,12 +184,12 @@ header {
 
 .action_text {
     width: 560px;
-    margin: 0 0 0 auto;
+    margin: 3rem 0 3rem auto;
 }
 
 .action_click {
     width: 280px;
-    margin: 0 auto 0 0;
+    margin: 3rem auto 3rem 0;
 }
 
 .footer_container {
