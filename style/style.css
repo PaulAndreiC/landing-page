@@ -24,9 +24,9 @@ body {
 header {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     width: 960px;
     margin: 2rem auto 0;
-    justify-content: space-between;
     align-items: baseline;
     background-color: #1F2937;
 }
@@ -114,10 +114,10 @@ header {
 
 .illustrations {
     display: flex;
+    justify-content: space-between;
     width: 840px;
     height: auto;
     margin: 0 auto;
-    justify-content: space-between;
 }
 
 .illustration_image {
@@ -129,10 +129,10 @@ header {
 
 .illustrations_text {
     display: flex;
+    justify-content: space-between;
     width: 840px;
     height: auto;
     margin: 1rem auto 0;
-    justify-content: space-between;
 }
 
 .illustration_text {
@@ -175,6 +175,7 @@ header {
 .action_section {
     display: flex;
     flex-direction: row;
+    align-items: baseline;
     width: 960px;
     height: auto;
     margin: 6rem auto;
