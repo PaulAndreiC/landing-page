@@ -183,12 +183,12 @@ header {
 }
 
 .action_text {
-    width: 420px;
+    width: 560px;
     margin: 0 0 0 auto;
 }
 
 .action_click {
-    width: 420px;
+    width: 280px;
     margin: 0 auto 0 0;
 }
 
