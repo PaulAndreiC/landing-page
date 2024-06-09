@@ -131,7 +131,7 @@ header {
 .illustrations_text {
     display: flex;
     justify-content: space-between;
-    width: 840px;
+    width: 960px;
     height: auto;
     margin: 1rem auto 0;
 }
