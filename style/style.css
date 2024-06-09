@@ -213,6 +213,7 @@ footer {
 }
 
 .hero_button {
+    margin: 1.5rem 0 0;
     border: 2px solid #3882F6;
     border-radius: 0.5rem;
 }
