@@ -182,6 +182,7 @@ header {
     margin: 6rem auto;
     background-color: #3882F6;
     color: #F9FAF8;
+    border-radius: 1rem;
 }
 
 .action_subsection {
