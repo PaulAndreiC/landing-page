@@ -204,6 +204,7 @@ footer {
 }
 
 .sign_up {
+    margin: 1.5rem 0 0;
     padding: 0.5rem 1.75rem;
     background-color: #3882F6;
     font-size: 1.125rem;
