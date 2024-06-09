@@ -219,6 +219,7 @@ footer {
 }
 
 .action_button {
+    margin: 0 0;
     border: 2px solid #F9FAF8;
     border-radius: 0.5rem;
 }
