@@ -166,6 +166,7 @@ header {
 .quote_author {
     width: 960px;
     margin: 0 auto;
+    padding: 0 60px;
     font-size: 1.5rem;
     font-weight: 900;
     text-align: right;
