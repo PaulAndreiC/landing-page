@@ -187,6 +187,8 @@ header {
 .action_subsection {
     display: flex;
     flex-direction: row;
+    width: 960px;
+    padding: 3rem 60px;
 }
 
 .action_text {
