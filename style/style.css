@@ -157,7 +157,7 @@ header {
 .quote_text {
     width: 960px;
     margin: 0 auto;
-    padding: 0 180px;
+    padding: 0 120px;
     font-family: "PT Sans Narrow", Arial, sans-serif;
     font-size: 2.25rem;
     font-weight: 100;
@@ -166,7 +166,7 @@ header {
 .quote_author {
     width: 960px;
     margin: 0 auto;
-    padding: 0 180px;
+    padding: 0 120px;
     font-size: 1.5rem;
     font-weight: 900;
     text-align: right;
