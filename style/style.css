@@ -184,6 +184,11 @@ header {
     color: #F9FAF8;
 }
 
+.action_subsection {
+    display: flex;
+    flex-direction: row;
+}
+
 .action_text {
     margin: 3rem 0 3rem auto;
 }
