@@ -134,6 +134,7 @@ header {
     width: 960px;
     height: auto;
     margin: 1rem auto 0;
+    padding: 0 60px;
 }
 
 .illustration_text {
