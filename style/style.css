@@ -189,13 +189,7 @@ header {
     display: flex;
     flex-direction: row;
     width: 960px;
-    padding: 3rem 60px;
-}
-
-.action_text {
-}
-
-.action_click {
+    padding: 3rem 120px;
 }
 
 .footer_container {
