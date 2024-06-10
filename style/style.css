@@ -193,6 +193,13 @@ header {
     padding: 3rem 120px;
 }
 
+.action_title {
+    font-size: 1.5rem;
+}
+
+.action_description {
+    font-size: 1rem;
+}
 
 .footer_container {
     background-color: #1F2937;
