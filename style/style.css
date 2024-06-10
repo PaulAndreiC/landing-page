@@ -208,9 +208,9 @@ header {
 footer {
     display: flex;
     flex-direction: row;
-    background-color: #1F2937;
     width: 960px;
     margin: 3rem auto;
+    background-color: #1F2937;
     font-size: 1rem;
     color: #F9FAF8;
 }
