@@ -192,6 +192,14 @@ header {
     padding: 3rem 120px;
 }
 
+.action_text {
+    flex: 3;
+}
+
+.action_click {
+    flex: 1;
+}
+
 .footer_container {
     background-color: #1F2937;
 }
