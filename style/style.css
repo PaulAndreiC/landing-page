@@ -59,6 +59,7 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
     max-width: 960px;
     margin: 5rem auto 5rem;
     background-color: #1F2937;
