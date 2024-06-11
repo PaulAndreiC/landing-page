@@ -34,7 +34,7 @@ header {
 
 .logo {
     flex: 10;
-    margin: 0 0 0 0.625rem;
+    margin: 0 0 0 1rem;
     font-size: 1.5rem;
     font-weight: 900;
     color: #F9FAF8;
@@ -45,7 +45,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 0 0.625rem 0 0;
+    margin: 0 1rem 0 0;
     font-size: 1.125rem;    
     color: #E5E7EB;
     list-style-type: none;
