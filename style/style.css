@@ -196,6 +196,7 @@ header {
 .action_subsection {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
     max-width: 960px;
     padding: 3rem 120px;
