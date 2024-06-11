@@ -110,7 +110,7 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 960px;
-    margin: 6rem auto;
+    margin: 5rem auto;
 }
 
 .information_title {
