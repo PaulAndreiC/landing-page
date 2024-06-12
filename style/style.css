@@ -199,6 +199,10 @@ header {
     padding: 3rem 120px;
 }
 
+.action_text {
+    margin: 0 0 1rem;
+}
+
 .action_title {
     font-size: 1.5rem;
 }
