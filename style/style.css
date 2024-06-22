@@ -207,6 +207,10 @@ header {
     font-size: 1.5rem;
 }
 
+.action_click {
+    margin: 0 auto;
+}
+
 .action_description {
     font-size: 1rem;
 }
