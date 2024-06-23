@@ -51,6 +51,11 @@ header {
     list-style-type: none;
 }
 
+.menu a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 .page_link {
     min-width: 80px;
 }
