@@ -51,6 +51,10 @@ header {
     list-style-type: none;
 }
 
+.page_link {
+    min-width: 80px;
+}
+
 .hero_container {
     background-color: #1F2937;
 }
