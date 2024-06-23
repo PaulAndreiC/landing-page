@@ -200,6 +200,8 @@ header {
     margin: 0 15px;
     padding: 3rem 120px;
     border-radius: 1rem;
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
 
 .action_text {
